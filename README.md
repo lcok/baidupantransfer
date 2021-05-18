@@ -36,7 +36,7 @@
 5. 在`开发者工具`的`NetWork`栏内，从最下面往上找到一个`newnum`请求
 6. 点击`newnum`，`Cookie`冒号后面的内容即为cookie
 
-![getCookie](https://github.com/hvious/baidupantransfer/assert/getCookie.png)
+![getCookie](https://raw.githubusercontent.com/hvious/baidupantransfer/main/assert/getCookie.png)
 
 
 
