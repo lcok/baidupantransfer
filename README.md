@@ -102,6 +102,12 @@ java -jar baidupantransfer-1.0.jar
 
 
 
+## 心路历程
+
+[博客-百度网盘批量转存工具](https://vious.cn/posts/c714d80/)
+
+
+
 ## License
 
 [MIT](https://github.com/hvious/baidupantransfer/LICENSE)
