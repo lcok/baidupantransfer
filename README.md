@@ -110,5 +110,5 @@ java -jar baidupantransfer-1.0.jar
 
 ## License
 
-[MIT](https://github.com/hvious/baidupantransfer/LICENSE)
+[MIT](https://github.com/hvious/baidupantransfer/blob/main/LICENSE)
 
